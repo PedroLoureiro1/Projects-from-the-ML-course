@@ -1,1 +1,2 @@
-# Projects-from-the-ML-course
+# Projetos-Apre
+Projetos da cadeira Aprendizagem (Machine Learning) 
